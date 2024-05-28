@@ -1,6 +1,5 @@
 <!--Header Name-->
 # Hi, I'm Richard!
-Data Science @ UC Berkeley
 <br /> 
 
 <!--Start Intro-->               
