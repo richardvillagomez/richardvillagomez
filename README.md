@@ -1,5 +1,5 @@
 <!--Header Name-->
-#👋🏽 Hi, I'm Richard!
+# 👋🏽 Hi, I'm Richard!
 <br /> 
 
 <!--Start Intro-->               
